@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+#general java
+*.class
+*.war
+#*.jar
+
+# python
+*.pyc
+
+# eclipse stuffs
+.settings/*
+*/.settings/
+.classpath
+.project
+*/.externalToolBuilders
+*/maven-eclipse.xml
+
+# intellij stuff
+.idea/
+*.iml
+
+#maven stuffs
+target/
+release/
+RESULTS/
+CSV_EXPORT/
+
